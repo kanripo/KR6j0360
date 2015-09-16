@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說慈氏菩薩誓願陀羅尼經
+#+DATE: 2015-08-30 20:30:55.427325
+#+PROPERTY: JUAN 0
