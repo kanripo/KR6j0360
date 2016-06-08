@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:55.221948
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:58
 #+TITLE: 佛說慈氏菩薩誓願陀羅尼經
 #+PROPERTY: CBETA_ID T20n1143
 #+PROPERTY: ID KR6j0360
